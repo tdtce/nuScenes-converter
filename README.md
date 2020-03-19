@@ -9,7 +9,7 @@ Detectron2 doesn't support nuScence annotation out of the box. To use this datas
 - PyTorch ≥ 1.4
 - OpenCV
 - [detectron2](https://github.com/facebookresearch/detectron2)
-- [nuScenes dev kit](https://github.com/nutonomy/nuscenes-devkit/tree/master) 
+- [nuScenes devkit](https://github.com/nutonomy/nuscenes-devkit/tree/master) 
 - [nuScenes](https://www.nuscenes.org/), demo use mini version
 
 ## Installation
