@@ -26,4 +26,6 @@ For import use:
 from nusc_conv.conv import get_nuscenes_dicts
 ```
 
-
+## Plans
+- [x] Category support
+- [ ] Train test support
